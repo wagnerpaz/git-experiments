@@ -7,3 +7,7 @@ GitFlow Branchs
 The following branchs will be utilized:
 * master: Everlasting branch with production ready code;
 * develop: Everlasting branch where development takes place;
+
+Action
+----------------
+1. Created branch develop
