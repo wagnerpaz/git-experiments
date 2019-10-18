@@ -10,4 +10,5 @@ The following branchs will be utilized:
 
 Action
 ----------------
-1. Created branch develop
+1. Created branch develop;
+2. Created feature add-feature branch derived from develop;
